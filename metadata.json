@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Deltoid Health Intelligence",
+  "description": "A premium healthcare platform enterprise website focused on AI-driven health data analytics and medical intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
